@@ -1,4 +1,4 @@
-# generate a number 1 to 10
+# generate a number between first argument and second argument
 # input from user
 # check that input is a number 1 to 10
 # check if number is the right guess. otherwise ask again
